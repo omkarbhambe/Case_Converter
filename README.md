@@ -9,7 +9,7 @@ Welcome to Case Converter project ! This python based application allows user to
 ### Getting Started
 #### Prerequisites
 - Python 3.6 or higher.
-- Tikinter Framework.
+- Tkinter Framework.
 
 #### Installation 
 
@@ -24,14 +24,14 @@ Welcome to Case Converter project ! This python based application allows user to
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    pip install -r requirements.txt
+    pip install -r Case_Converter.txt
     ```
 
 3. SetUp your Tikinter application
    Once all the dependencies are installed import the module :- 
    ```bash
-   import Tikinter as tk
-   from Tikinter as ttk
+   import Tkinter as tk
+   from Tkinter as ttk
    ```
 
 #### Usage 
